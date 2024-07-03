@@ -1,4 +1,4 @@
-## Hello World! DILLIR 👋
+## 👋 Hello World! DILLIR Here 
 
 I'm an experienced front-end developer with over 5 years of layout experience. I use modern technologies in my projects, such as React and GrqphQL. I know how to create an outstanding functional site or web-application. Also, I strive to develop, learn new technologies, deepen what I already know
 and work in a team on interesting projects.
