@@ -28,7 +28,7 @@ Check out my repositories, where I experiment with new technologies and build aw
 
 ## 📊 Various statistics elements
 
-[![Codewars Badge](https://www.codewars.com/users/DILLIR/badges/large)](https://www.codewars.com/users/DILLIR)
-
+<img src="https://visitcount.itsvg.in/api?id=dillir&icon=5&color=1)](https://visitcount.itsvg.in"/>
+<img src="https://www.codewars.com/users/DILLIR/badges/large"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dillir&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DILLIR&theme=tokyonight&hide_border=false"/>
